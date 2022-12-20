@@ -8,7 +8,7 @@ export function Projects() {
                 <Project
                     name='NLW E-sports'
                     desc='Landing page com tema de E-sports feito durante a Maratona Explorer da Rocketseat, com HTML e CSS.'
-                    urlImg='https://raw.githubusercontent.com/jpmoncao/portfolio/master/src/assets/projects/banner-projeto-2.png'
+                    urlImg='https://raw.githubusercontent.com/jpmoncao/portfolio/master/src/assets/projects/banner-projeto-1.png'
                     urlRepository='https://github.com/jpmoncao/nlw-explorer'
                 />
                 <Project
