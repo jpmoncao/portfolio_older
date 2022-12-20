@@ -8,19 +8,19 @@ export function Projects() {
                 <Project
                     name='NLW E-sports'
                     desc='Landing page com tema de E-sports feito durante a Maratona Explorer da Rocketseat, com HTML e CSS.'
-                    urlImg='src\assets\projects\banner-projeto-1.png'
+                    urlImg='../../assets/projects/banner-projeto-1.png'
                     urlRepository='https://github.com/jpmoncao/nlw-explorer'
                 />
                 <Project
                     name='ForMove'
                     desc='Site informativo focado na área da saúde com HTML, CSS e JavaScript praticamente de forma nativa.'
-                    urlImg='src\assets\projects\banner-projeto-2.png'
+                    urlImg='../../assets/projects/banner-projeto-2.png'
                     urlRepository='https://github.com/jpmoncao/formove'
                 />
                 <Project
                     name='ForBot'
                     desc='ChatBot automatizado integrado ao site ForMove, com HTML, CSS, JavaScript e a API "Speech Recognition".'
-                    urlImg='src\assets\projects\banner-projeto-3.png'
+                    urlImg='../../assets/projects/banner-projeto-3.png'
                     urlRepository='https://github.com/jpmoncao/forbot'
                 />
                 <a

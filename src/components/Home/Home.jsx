@@ -17,7 +17,7 @@ export function Home() {
                 </div>
             </div>
 
-            <img src="src\assets\img\illustration-code.png" alt="Ilustração de homem programando" className="drop-shadow-2xl h-96 mx-auto md:mx-0" />
+            <img src="../../assets/img/illustration-code.png" alt="Ilustração de homem programando" className="drop-shadow-2xl h-96 mx-auto md:mx-0" />
         </div>
     )
 }
