@@ -47,6 +47,11 @@ export function Skills() {
                     urlImg='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg'
                     count={3} />
                 <Skill
+                    title='PHP'
+                    desc='Linguagem de programação'
+                    urlImg='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg'
+                    count={2} />
+                <Skill
                     title='Java'
                     desc='Linguagem de programação'
                     urlImg='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'
